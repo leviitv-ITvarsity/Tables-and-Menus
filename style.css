@@ -1,0 +1,19 @@
+table {
+    width: 900px;
+}
+
+th {
+    text-align: left;
+    font-weight: bold;
+    background-color: dodgerblue;
+}
+
+tables, th, td, caption {
+    border: 1px solid #000;
+    padding: 1rem;
+    background-color: aquamarine;
+}
+
+caption {
+    text-align: left;
+}
